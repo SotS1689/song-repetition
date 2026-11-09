@@ -1,0 +1,1463 @@
+{
+ "built": "2026-11-09",
+ "psalms": {
+  "label": "Psalms 1–150 (ESV)",
+  "n": 150,
+  "mean": 1.218,
+  "median": 1,
+  "min": 1,
+  "max": 26,
+  "items": [
+   {
+    "name": "Psalm 1",
+    "score": 1,
+    "unique": 17,
+    "total": 17
+   },
+   {
+    "name": "Psalm 2",
+    "score": 1,
+    "unique": 28,
+    "total": 28
+   },
+   {
+    "name": "Psalm 3",
+    "score": 1,
+    "unique": 18,
+    "total": 18
+   },
+   {
+    "name": "Psalm 4",
+    "score": 1,
+    "unique": 17,
+    "total": 17
+   },
+   {
+    "name": "Psalm 5",
+    "score": 1,
+    "unique": 34,
+    "total": 34
+   },
+   {
+    "name": "Psalm 6",
+    "score": 1,
+    "unique": 21,
+    "total": 21
+   },
+   {
+    "name": "Psalm 7",
+    "score": 1,
+    "unique": 40,
+    "total": 40
+   },
+   {
+    "name": "Psalm 8",
+    "score": 1.333,
+    "unique": 18,
+    "total": 20
+   },
+   {
+    "name": "Psalm 9",
+    "score": 1,
+    "unique": 43,
+    "total": 43
+   },
+   {
+    "name": "Psalm 10",
+    "score": 1,
+    "unique": 41,
+    "total": 41
+   },
+   {
+    "name": "Psalm 11",
+    "score": 1,
+    "unique": 18,
+    "total": 18
+   },
+   {
+    "name": "Psalm 12",
+    "score": 1,
+    "unique": 18,
+    "total": 18
+   },
+   {
+    "name": "Psalm 13",
+    "score": 1,
+    "unique": 13,
+    "total": 13
+   },
+   {
+    "name": "Psalm 14",
+    "score": 1.167,
+    "unique": 18,
+    "total": 19
+   },
+   {
+    "name": "Psalm 15",
+    "score": 1,
+    "unique": 13,
+    "total": 13
+   },
+   {
+    "name": "Psalm 16",
+    "score": 1,
+    "unique": 23,
+    "total": 23
+   },
+   {
+    "name": "Psalm 17",
+    "score": 1,
+    "unique": 35,
+    "total": 35
+   },
+   {
+    "name": "Psalm 18",
+    "score": 1,
+    "unique": 113,
+    "total": 113
+   },
+   {
+    "name": "Psalm 19",
+    "score": 1,
+    "unique": 41,
+    "total": 41
+   },
+   {
+    "name": "Psalm 20",
+    "score": 1,
+    "unique": 20,
+    "total": 20
+   },
+   {
+    "name": "Psalm 21",
+    "score": 1,
+    "unique": 28,
+    "total": 28
+   },
+   {
+    "name": "Psalm 22",
+    "score": 1,
+    "unique": 74,
+    "total": 74
+   },
+   {
+    "name": "Psalm 23",
+    "score": 1,
+    "unique": 19,
+    "total": 19
+   },
+   {
+    "name": "Psalm 24",
+    "score": 1.409,
+    "unique": 22,
+    "total": 25
+   },
+   {
+    "name": "Psalm 25",
+    "score": 1,
+    "unique": 46,
+    "total": 46
+   },
+   {
+    "name": "Psalm 26",
+    "score": 1,
+    "unique": 25,
+    "total": 25
+   },
+   {
+    "name": "Psalm 27",
+    "score": 1.061,
+    "unique": 49,
+    "total": 50
+   },
+   {
+    "name": "Psalm 28",
+    "score": 1,
+    "unique": 29,
+    "total": 29
+   },
+   {
+    "name": "Psalm 29",
+    "score": 1,
+    "unique": 23,
+    "total": 23
+   },
+   {
+    "name": "Psalm 30",
+    "score": 1,
+    "unique": 31,
+    "total": 31
+   },
+   {
+    "name": "Psalm 31",
+    "score": 1,
+    "unique": 70,
+    "total": 70
+   },
+   {
+    "name": "Psalm 32",
+    "score": 1,
+    "unique": 28,
+    "total": 28
+   },
+   {
+    "name": "Psalm 33",
+    "score": 1,
+    "unique": 44,
+    "total": 44
+   },
+   {
+    "name": "Psalm 34",
+    "score": 1,
+    "unique": 44,
+    "total": 44
+   },
+   {
+    "name": "Psalm 35",
+    "score": 1,
+    "unique": 81,
+    "total": 81
+   },
+   {
+    "name": "Psalm 36",
+    "score": 1,
+    "unique": 28,
+    "total": 28
+   },
+   {
+    "name": "Psalm 37",
+    "score": 1,
+    "unique": 88,
+    "total": 88
+   },
+   {
+    "name": "Psalm 38",
+    "score": 1,
+    "unique": 47,
+    "total": 47
+   },
+   {
+    "name": "Psalm 39",
+    "score": 1,
+    "unique": 38,
+    "total": 38
+   },
+   {
+    "name": "Psalm 40",
+    "score": 1,
+    "unique": 61,
+    "total": 61
+   },
+   {
+    "name": "Psalm 41",
+    "score": 1,
+    "unique": 29,
+    "total": 29
+   },
+   {
+    "name": "Psalm 42",
+    "score": 1.5,
+    "unique": 36,
+    "total": 42
+   },
+   {
+    "name": "Psalm 43",
+    "score": 1,
+    "unique": 20,
+    "total": 20
+   },
+   {
+    "name": "Psalm 44",
+    "score": 1,
+    "unique": 60,
+    "total": 60
+   },
+   {
+    "name": "Psalm 45",
+    "score": 1,
+    "unique": 38,
+    "total": 38
+   },
+   {
+    "name": "Psalm 46",
+    "score": 1.273,
+    "unique": 22,
+    "total": 24
+   },
+   {
+    "name": "Psalm 47",
+    "score": 1,
+    "unique": 20,
+    "total": 20
+   },
+   {
+    "name": "Psalm 48",
+    "score": 1.086,
+    "unique": 35,
+    "total": 36
+   },
+   {
+    "name": "Psalm 49",
+    "score": 1,
+    "unique": 43,
+    "total": 43
+   },
+   {
+    "name": "Psalm 50",
+    "score": 1,
+    "unique": 52,
+    "total": 52
+   },
+   {
+    "name": "Psalm 51",
+    "score": 1,
+    "unique": 44,
+    "total": 44
+   },
+   {
+    "name": "Psalm 52",
+    "score": 1,
+    "unique": 25,
+    "total": 25
+   },
+   {
+    "name": "Psalm 53",
+    "score": 1.15,
+    "unique": 20,
+    "total": 21
+   },
+   {
+    "name": "Psalm 54",
+    "score": 1,
+    "unique": 15,
+    "total": 15
+   },
+   {
+    "name": "Psalm 55",
+    "score": 1,
+    "unique": 64,
+    "total": 64
+   },
+   {
+    "name": "Psalm 56",
+    "score": 1.2,
+    "unique": 30,
+    "total": 32
+   },
+   {
+    "name": "Psalm 57",
+    "score": 1.207,
+    "unique": 29,
+    "total": 31
+   },
+   {
+    "name": "Psalm 58",
+    "score": 1,
+    "unique": 22,
+    "total": 22
+   },
+   {
+    "name": "Psalm 59",
+    "score": 1.286,
+    "unique": 42,
+    "total": 46
+   },
+   {
+    "name": "Psalm 60",
+    "score": 1,
+    "unique": 27,
+    "total": 27
+   },
+   {
+    "name": "Psalm 61",
+    "score": 1,
+    "unique": 18,
+    "total": 18
+   },
+   {
+    "name": "Psalm 62",
+    "score": 1,
+    "unique": 33,
+    "total": 33
+   },
+   {
+    "name": "Psalm 63",
+    "score": 1,
+    "unique": 25,
+    "total": 25
+   },
+   {
+    "name": "Psalm 64",
+    "score": 1,
+    "unique": 24,
+    "total": 24
+   },
+   {
+    "name": "Psalm 65",
+    "score": 1,
+    "unique": 37,
+    "total": 37
+   },
+   {
+    "name": "Psalm 66",
+    "score": 1,
+    "unique": 45,
+    "total": 45
+   },
+   {
+    "name": "Psalm 67",
+    "score": 1.462,
+    "unique": 13,
+    "total": 15
+   },
+   {
+    "name": "Psalm 68",
+    "score": 1,
+    "unique": 88,
+    "total": 88
+   },
+   {
+    "name": "Psalm 69",
+    "score": 1,
+    "unique": 90,
+    "total": 90
+   },
+   {
+    "name": "Psalm 70",
+    "score": 1,
+    "unique": 16,
+    "total": 16
+   },
+   {
+    "name": "Psalm 71",
+    "score": 1,
+    "unique": 64,
+    "total": 64
+   },
+   {
+    "name": "Psalm 72",
+    "score": 1,
+    "unique": 50,
+    "total": 50
+   },
+   {
+    "name": "Psalm 73",
+    "score": 1,
+    "unique": 57,
+    "total": 57
+   },
+   {
+    "name": "Psalm 74",
+    "score": 1,
+    "unique": 49,
+    "total": 49
+   },
+   {
+    "name": "Psalm 75",
+    "score": 1,
+    "unique": 24,
+    "total": 24
+   },
+   {
+    "name": "Psalm 76",
+    "score": 1,
+    "unique": 28,
+    "total": 28
+   },
+   {
+    "name": "Psalm 77",
+    "score": 1,
+    "unique": 46,
+    "total": 46
+   },
+   {
+    "name": "Psalm 78",
+    "score": 1,
+    "unique": 163,
+    "total": 163
+   },
+   {
+    "name": "Psalm 79",
+    "score": 1,
+    "unique": 37,
+    "total": 37
+   },
+   {
+    "name": "Psalm 80",
+    "score": 1.205,
+    "unique": 39,
+    "total": 41
+   },
+   {
+    "name": "Psalm 81",
+    "score": 1,
+    "unique": 35,
+    "total": 35
+   },
+   {
+    "name": "Psalm 82",
+    "score": 1,
+    "unique": 17,
+    "total": 17
+   },
+   {
+    "name": "Psalm 83",
+    "score": 1,
+    "unique": 37,
+    "total": 37
+   },
+   {
+    "name": "Psalm 84",
+    "score": 1.091,
+    "unique": 33,
+    "total": 34
+   },
+   {
+    "name": "Psalm 85",
+    "score": 1,
+    "unique": 27,
+    "total": 27
+   },
+   {
+    "name": "Psalm 86",
+    "score": 1,
+    "unique": 39,
+    "total": 39
+   },
+   {
+    "name": "Psalm 87",
+    "score": 1,
+    "unique": 15,
+    "total": 15
+   },
+   {
+    "name": "Psalm 88",
+    "score": 1,
+    "unique": 40,
+    "total": 40
+   },
+   {
+    "name": "Psalm 89",
+    "score": 1,
+    "unique": 106,
+    "total": 106
+   },
+   {
+    "name": "Psalm 90",
+    "score": 1,
+    "unique": 39,
+    "total": 39
+   },
+   {
+    "name": "Psalm 91",
+    "score": 1,
+    "unique": 35,
+    "total": 35
+   },
+   {
+    "name": "Psalm 92",
+    "score": 1,
+    "unique": 31,
+    "total": 31
+   },
+   {
+    "name": "Psalm 93",
+    "score": 1,
+    "unique": 14,
+    "total": 14
+   },
+   {
+    "name": "Psalm 94",
+    "score": 1,
+    "unique": 47,
+    "total": 47
+   },
+   {
+    "name": "Psalm 95",
+    "score": 1,
+    "unique": 25,
+    "total": 25
+   },
+   {
+    "name": "Psalm 96",
+    "score": 1,
+    "unique": 29,
+    "total": 29
+   },
+   {
+    "name": "Psalm 97",
+    "score": 1,
+    "unique": 27,
+    "total": 27
+   },
+   {
+    "name": "Psalm 98",
+    "score": 1,
+    "unique": 24,
+    "total": 24
+   },
+   {
+    "name": "Psalm 99",
+    "score": 1.261,
+    "unique": 23,
+    "total": 25
+   },
+   {
+    "name": "Psalm 100",
+    "score": 1,
+    "unique": 12,
+    "total": 12
+   },
+   {
+    "name": "Psalm 101",
+    "score": 1,
+    "unique": 28,
+    "total": 28
+   },
+   {
+    "name": "Psalm 102",
+    "score": 1,
+    "unique": 61,
+    "total": 61
+   },
+   {
+    "name": "Psalm 103",
+    "score": 1.178,
+    "unique": 45,
+    "total": 47
+   },
+   {
+    "name": "Psalm 104",
+    "score": 1.038,
+    "unique": 78,
+    "total": 79
+   },
+   {
+    "name": "Psalm 105",
+    "score": 1,
+    "unique": 91,
+    "total": 91
+   },
+   {
+    "name": "Psalm 106",
+    "score": 1.028,
+    "unique": 108,
+    "total": 109
+   },
+   {
+    "name": "Psalm 107",
+    "score": 1.8,
+    "unique": 75,
+    "total": 87
+   },
+   {
+    "name": "Psalm 108",
+    "score": 1,
+    "unique": 29,
+    "total": 29
+   },
+   {
+    "name": "Psalm 109",
+    "score": 1,
+    "unique": 64,
+    "total": 64
+   },
+   {
+    "name": "Psalm 110",
+    "score": 1,
+    "unique": 23,
+    "total": 23
+   },
+   {
+    "name": "Psalm 111",
+    "score": 1,
+    "unique": 23,
+    "total": 23
+   },
+   {
+    "name": "Psalm 112",
+    "score": 1,
+    "unique": 23,
+    "total": 23
+   },
+   {
+    "name": "Psalm 113",
+    "score": 1.158,
+    "unique": 19,
+    "total": 20
+   },
+   {
+    "name": "Psalm 114",
+    "score": 1,
+    "unique": 16,
+    "total": 16
+   },
+   {
+    "name": "Psalm 115",
+    "score": 1.216,
+    "unique": 37,
+    "total": 39
+   },
+   {
+    "name": "Psalm 116",
+    "score": 1.231,
+    "unique": 39,
+    "total": 42
+   },
+   {
+    "name": "Psalm 117",
+    "score": 1,
+    "unique": 5,
+    "total": 5
+   },
+   {
+    "name": "Psalm 118",
+    "score": 1.509,
+    "unique": 55,
+    "total": 63
+   },
+   {
+    "name": "Psalm 119",
+    "score": 1.087,
+    "unique": 345,
+    "total": 353
+   },
+   {
+    "name": "Psalm 120",
+    "score": 1,
+    "unique": 16,
+    "total": 16
+   },
+   {
+    "name": "Psalm 121",
+    "score": 1,
+    "unique": 17,
+    "total": 17
+   },
+   {
+    "name": "Psalm 122",
+    "score": 1,
+    "unique": 20,
+    "total": 20
+   },
+   {
+    "name": "Psalm 123",
+    "score": 1,
+    "unique": 13,
+    "total": 13
+   },
+   {
+    "name": "Psalm 124",
+    "score": 1.167,
+    "unique": 18,
+    "total": 19
+   },
+   {
+    "name": "Psalm 125",
+    "score": 1,
+    "unique": 14,
+    "total": 14
+   },
+   {
+    "name": "Psalm 126",
+    "score": 1,
+    "unique": 16,
+    "total": 16
+   },
+   {
+    "name": "Psalm 127",
+    "score": 1,
+    "unique": 16,
+    "total": 16
+   },
+   {
+    "name": "Psalm 128",
+    "score": 1,
+    "unique": 15,
+    "total": 15
+   },
+   {
+    "name": "Psalm 129",
+    "score": 1.188,
+    "unique": 16,
+    "total": 17
+   },
+   {
+    "name": "Psalm 130",
+    "score": 1.176,
+    "unique": 17,
+    "total": 18
+   },
+   {
+    "name": "Psalm 131",
+    "score": 1,
+    "unique": 9,
+    "total": 9
+   },
+   {
+    "name": "Psalm 132",
+    "score": 1,
+    "unique": 40,
+    "total": 40
+   },
+   {
+    "name": "Psalm 133",
+    "score": 1,
+    "unique": 10,
+    "total": 10
+   },
+   {
+    "name": "Psalm 134",
+    "score": 1,
+    "unique": 6,
+    "total": 6
+   },
+   {
+    "name": "Psalm 135",
+    "score": 1.064,
+    "unique": 47,
+    "total": 48
+   },
+   {
+    "name": "Psalm 136",
+    "score": 26,
+    "unique": 27,
+    "total": 52
+   },
+   {
+    "name": "Psalm 137",
+    "score": 1,
+    "unique": 26,
+    "total": 26
+   },
+   {
+    "name": "Psalm 138",
+    "score": 1,
+    "unique": 21,
+    "total": 21
+   },
+   {
+    "name": "Psalm 139",
+    "score": 1,
+    "unique": 52,
+    "total": 52
+   },
+   {
+    "name": "Psalm 140",
+    "score": 1.107,
+    "unique": 28,
+    "total": 29
+   },
+   {
+    "name": "Psalm 141",
+    "score": 1,
+    "unique": 24,
+    "total": 24
+   },
+   {
+    "name": "Psalm 142",
+    "score": 1,
+    "unique": 23,
+    "total": 23
+   },
+   {
+    "name": "Psalm 143",
+    "score": 1,
+    "unique": 34,
+    "total": 34
+   },
+   {
+    "name": "Psalm 144",
+    "score": 1.237,
+    "unique": 38,
+    "total": 41
+   },
+   {
+    "name": "Psalm 145",
+    "score": 1.07,
+    "unique": 43,
+    "total": 44
+   },
+   {
+    "name": "Psalm 146",
+    "score": 1.125,
+    "unique": 24,
+    "total": 25
+   },
+   {
+    "name": "Psalm 147",
+    "score": 1.071,
+    "unique": 42,
+    "total": 43
+   },
+   {
+    "name": "Psalm 148",
+    "score": 1.2,
+    "unique": 30,
+    "total": 32
+   },
+   {
+    "name": "Psalm 149",
+    "score": 1.158,
+    "unique": 19,
+    "total": 20
+   },
+   {
+    "name": "Psalm 150",
+    "score": 1.25,
+    "unique": 12,
+    "total": 13
+   }
+  ]
+ },
+ "hymns": {
+  "label": "hymns",
+  "n": 90,
+  "mean": 2.594,
+  "median": 1.432,
+  "min": 1,
+  "max": 13.714,
+  "items": [
+   {
+    "name": "A Mighty Fortress Is Our God",
+    "score": 1,
+    "unique": 36,
+    "total": 36
+   },
+   {
+    "name": "Abide With Me",
+    "score": 1,
+    "unique": 32,
+    "total": 32
+   },
+   {
+    "name": "Alas! And Did My Savior Bleed",
+    "score": 1,
+    "unique": 20,
+    "total": 20
+   },
+   {
+    "name": "All Creatures of Our God and King",
+    "score": 4.636,
+    "unique": 33,
+    "total": 49
+   },
+   {
+    "name": "All Hail The Power Of Jesus' Name",
+    "score": 9.538,
+    "unique": 26,
+    "total": 48
+   },
+   {
+    "name": "All People That On Earth Do Dwell (Psalm 100)",
+    "score": 1,
+    "unique": 16,
+    "total": 16
+   },
+   {
+    "name": "Amazing Grace",
+    "score": 1,
+    "unique": 28,
+    "total": 28
+   },
+   {
+    "name": "And Can It Be?",
+    "score": 2,
+    "unique": 36,
+    "total": 48
+   },
+   {
+    "name": "Angels From the Realms of Glory",
+    "score": 4.2,
+    "unique": 30,
+    "total": 42
+   },
+   {
+    "name": "Be Still My Soul",
+    "score": 1,
+    "unique": 30,
+    "total": 30
+   },
+   {
+    "name": "Be Thou My Vision",
+    "score": 1,
+    "unique": 20,
+    "total": 20
+   },
+   {
+    "name": "Blessed Assurance",
+    "score": 6,
+    "unique": 14,
+    "total": 24
+   },
+   {
+    "name": "Christ Arose",
+    "score": 7.5,
+    "unique": 14,
+    "total": 33
+   },
+   {
+    "name": "Christ the Lord Is Risen Today (Wesley)",
+    "score": 1,
+    "unique": 44,
+    "total": 44
+   },
+   {
+    "name": "Come Thou Fount Of Every Blessing",
+    "score": 1,
+    "unique": 40,
+    "total": 40
+   },
+   {
+    "name": "Come, Thou Almighty King",
+    "score": 1,
+    "unique": 28,
+    "total": 28
+   },
+   {
+    "name": "Come, Thou Long-Expected Jesus",
+    "score": 1,
+    "unique": 16,
+    "total": 16
+   },
+   {
+    "name": "Come, We that Love the Lord",
+    "score": 1,
+    "unique": 20,
+    "total": 20
+   },
+   {
+    "name": "Come, Ye Sinners, Poor and Needy",
+    "score": 6,
+    "unique": 28,
+    "total": 48
+   },
+   {
+    "name": "Crown Him With Many Crowns",
+    "score": 1.042,
+    "unique": 71,
+    "total": 72
+   },
+   {
+    "name": "Faith of Our Fathers",
+    "score": 2.143,
+    "unique": 14,
+    "total": 18
+   },
+   {
+    "name": "Glorious Things of Thee are Spoken",
+    "score": 1,
+    "unique": 32,
+    "total": 32
+   },
+   {
+    "name": "Good Christian Men, Rejoice",
+    "score": 2.471,
+    "unique": 17,
+    "total": 24
+   },
+   {
+    "name": "Great Is Thy Faithfulness",
+    "score": 3,
+    "unique": 16,
+    "total": 24
+   },
+   {
+    "name": "Guide Me, O Thou Great Jehovah",
+    "score": 1.5,
+    "unique": 30,
+    "total": 35
+   },
+   {
+    "name": "Hallelujah, What a Savior!",
+    "score": 2.5,
+    "unique": 16,
+    "total": 20
+   },
+   {
+    "name": "Hark! The Herald Angels Sing",
+    "score": 2.75,
+    "unique": 40,
+    "total": 50
+   },
+   {
+    "name": "Holy God, We Praise Thy Name",
+    "score": 1,
+    "unique": 24,
+    "total": 24
+   },
+   {
+    "name": "Holy, Holy, Holy",
+    "score": 1.529,
+    "unique": 17,
+    "total": 20
+   },
+   {
+    "name": "How Firm A Foundation",
+    "score": 1,
+    "unique": 28,
+    "total": 28
+   },
+   {
+    "name": "I Know Whom I Have Believed",
+    "score": 4.13,
+    "unique": 23,
+    "total": 35
+   },
+   {
+    "name": "I Sing the Mighty Power of God",
+    "score": 1,
+    "unique": 12,
+    "total": 12
+   },
+   {
+    "name": "I Will Sing of My Redeemer",
+    "score": 4.316,
+    "unique": 19,
+    "total": 32
+   },
+   {
+    "name": "Immortal, Invisible, God Only Wise",
+    "score": 1,
+    "unique": 20,
+    "total": 20
+   },
+   {
+    "name": "It Is Well With My Soul",
+    "score": 4.32,
+    "unique": 25,
+    "total": 36
+   },
+   {
+    "name": "Joy to the World (Psalm 98)",
+    "score": 1.6,
+    "unique": 20,
+    "total": 24
+   },
+   {
+    "name": "Joyful, Joyful, We Adore Thee",
+    "score": 1,
+    "unique": 16,
+    "total": 16
+   },
+   {
+    "name": "Lo! He Comes With Clouds Descending",
+    "score": 1.13,
+    "unique": 23,
+    "total": 24
+   },
+   {
+    "name": "Love Divine, All Loves Excelling",
+    "score": 1,
+    "unique": 32,
+    "total": 32
+   },
+   {
+    "name": "May the Mind of Christ, My Savior",
+    "score": 1,
+    "unique": 24,
+    "total": 24
+   },
+   {
+    "name": "My Hope Is Build on Nothing Less",
+    "score": 5.333,
+    "unique": 18,
+    "total": 28
+   },
+   {
+    "name": "O Come, All Ye Faithful",
+    "score": 9.786,
+    "unique": 28,
+    "total": 48
+   },
+   {
+    "name": "O Come O Come Emmanuel",
+    "score": 3.182,
+    "unique": 22,
+    "total": 30
+   },
+   {
+    "name": "Our God, Our Help In Ages Past (Psalm 90)",
+    "score": 1.273,
+    "unique": 33,
+    "total": 36
+   },
+   {
+    "name": "O Sacred Head, Now Wounded",
+    "score": 1.034,
+    "unique": 87,
+    "total": 88
+   },
+   {
+    "name": "O Worship the King",
+    "score": 1,
+    "unique": 24,
+    "total": 24
+   },
+   {
+    "name": "O For A Thousand Tongues",
+    "score": 1.123,
+    "unique": 73,
+    "total": 76
+   },
+   {
+    "name": "O The Deep, Deep Love of Jesus",
+    "score": 1.714,
+    "unique": 21,
+    "total": 24
+   },
+   {
+    "name": "Praise To The Lord, The Almighty",
+    "score": 1,
+    "unique": 35,
+    "total": 35
+   },
+   {
+    "name": "Rejoice, The Lord is King",
+    "score": 2.25,
+    "unique": 24,
+    "total": 30
+   },
+   {
+    "name": "Rock of Ages",
+    "score": 1.273,
+    "unique": 22,
+    "total": 24
+   },
+   {
+    "name": "Savior, Like A Shepherd Lead Us",
+    "score": 2,
+    "unique": 12,
+    "total": 16
+   },
+   {
+    "name": "Sing Praise to God Who Reigns Above",
+    "score": 1.774,
+    "unique": 31,
+    "total": 35
+   },
+   {
+    "name": "Stricken, Smitten, and Afflicted",
+    "score": 1,
+    "unique": 16,
+    "total": 16
+   },
+   {
+    "name": "Take My Life And Let It Be",
+    "score": 1,
+    "unique": 24,
+    "total": 24
+   },
+   {
+    "name": "The Church's One Foundation",
+    "score": 1,
+    "unique": 56,
+    "total": 56
+   },
+   {
+    "name": "The Love of God",
+    "score": 2.5,
+    "unique": 26,
+    "total": 35
+   },
+   {
+    "name": "There Is a Fountain Filled with Blood",
+    "score": 5.5,
+    "unique": 20,
+    "total": 40
+   },
+   {
+    "name": "Thine Is the Glory, Risen Conquering Son",
+    "score": 2.769,
+    "unique": 13,
+    "total": 18
+   },
+   {
+    "name": "Tis So Sweet to Trust in Jesus",
+    "score": 4,
+    "unique": 20,
+    "total": 32
+   },
+   {
+    "name": "To God Be The Glory",
+    "score": 4.941,
+    "unique": 17,
+    "total": 30
+   },
+   {
+    "name": "Trust and Obey",
+    "score": 3.143,
+    "unique": 28,
+    "total": 40
+   },
+   {
+    "name": "We Praise You, O God, Our Redeemer, Creator",
+    "score": 1,
+    "unique": 12,
+    "total": 12
+   },
+   {
+    "name": "What A Friend We Have In Jesus",
+    "score": 1.643,
+    "unique": 28,
+    "total": 32
+   },
+   {
+    "name": "What Child Is This?",
+    "score": 1.364,
+    "unique": 22,
+    "total": 24
+   },
+   {
+    "name": "When I Survey the Wondrous Cross",
+    "score": 1,
+    "unique": 20,
+    "total": 20
+   },
+   {
+    "name": "Wonderful Words of Life",
+    "score": 13.714,
+    "unique": 14,
+    "total": 30
+   },
+   {
+    "name": "All the Way My Savior Leads Me",
+    "score": 2.182,
+    "unique": 22,
+    "total": 30
+   },
+   {
+    "name": "Angels We Have Heard On High",
+    "score": 4.706,
+    "unique": 17,
+    "total": 24
+   },
+   {
+    "name": "Praise God From Whom All Blessings Flow (Doxology)",
+    "score": 1,
+    "unique": 5,
+    "total": 5
+   },
+   {
+    "name": "Fairest Lord Jesus",
+    "score": 1,
+    "unique": 20,
+    "total": 20
+   },
+   {
+    "name": "For All The Saints",
+    "score": 4.529,
+    "unique": 34,
+    "total": 44
+   },
+   {
+    "name": "Gloria Patri",
+    "score": 1,
+    "unique": 7,
+    "total": 7
+   },
+   {
+    "name": "God Moves in a Mysterious Way",
+    "score": 1,
+    "unique": 24,
+    "total": 24
+   },
+   {
+    "name": "God Rest Ye Merry Gentlemen",
+    "score": 5.585,
+    "unique": 53,
+    "total": 72
+   },
+   {
+    "name": "Grace Greater Than Our Sin",
+    "score": 5.895,
+    "unique": 19,
+    "total": 32
+   },
+   {
+    "name": "Have Thine Own Way, Lord",
+    "score": 2.154,
+    "unique": 13,
+    "total": 16
+   },
+   {
+    "name": "I Am Thine, O Lord",
+    "score": 4,
+    "unique": 20,
+    "total": 32
+   },
+   {
+    "name": "I Greet Thee, Who My Sure Redeemer Art",
+    "score": 1,
+    "unique": 20,
+    "total": 20
+   },
+   {
+    "name": "I Need Thee Every Hour",
+    "score": 6.053,
+    "unique": 19,
+    "total": 35
+   },
+   {
+    "name": "I Surrender All",
+    "score": 6.053,
+    "unique": 19,
+    "total": 35
+   },
+   {
+    "name": "Jerusalem the Golden",
+    "score": 1,
+    "unique": 60,
+    "total": 60
+   },
+   {
+    "name": "Let All Mortal Flesh Keep Silence",
+    "score": 1,
+    "unique": 24,
+    "total": 24
+   },
+   {
+    "name": "Lo, How A Rose E'er Blooming",
+    "score": 1.088,
+    "unique": 34,
+    "total": 35
+   },
+   {
+    "name": "My Savior's Love",
+    "score": 5.895,
+    "unique": 19,
+    "total": 32
+   },
+   {
+    "name": "O Spendor of God's Glory Bright",
+    "score": 1,
+    "unique": 24,
+    "total": 24
+   },
+   {
+    "name": "Of The Father's Love Begotten",
+    "score": 2.455,
+    "unique": 55,
+    "total": 63
+   },
+   {
+    "name": "Praise Him! Praise Him!",
+    "score": 1.364,
+    "unique": 22,
+    "total": 24
+   },
+   {
+    "name": "Songs of Praise the Angels Sang",
+    "score": 1,
+    "unique": 24,
+    "total": 24
+   },
+   {
+    "name": "This Is My Father's World",
+    "score": 2.842,
+    "unique": 19,
+    "total": 24
+   }
+  ]
+ }
+}

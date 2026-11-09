@@ -1,0 +1,174 @@
+# One hymn title per line (hymnal number in parentheses is ignored).
+# "List title => Let's Sing title" when Let's Sing spells it differently.
+# Source: GCC Elder Hymn List.docx
+A Mighty Fortress Is Our God (26)
+A Shelter in the Time of Storm (353)
+Abide with Me (419)
+Alas! And Did My Savior Bleed (208)
+All Creatures of Our God and King (64)
+All Hail the Power of Jesus' Name (97)
+All People That on Earth Do Dwell (20)
+Amazing Grace (202)
+And Can It Be? (203)
+Angels from the Realms of Glory (131)
+Be Still My Soul (347)
+Be Thou My Vision (382)
+Because He Lives (213)
+Blessed Assurance (345)
+Christ Arose (216)
+Christ the Lord Is Risen Today (217)
+Come Thou Fount of Every Blessing (2)
+Come, Christians Join to Sing (108)
+Come, My Hope Is In The Lord (406)
+Come, Thou Almighty King (267)
+Come, Thou Long Expected Jesus (124)
+Come, We that Love the Lord (18)
+Come, Ye Sinners, Poor and Needy (334)
+Crown Him with Many Crowns (234)
+Eternal Father, Strong to Save (575)
+Faith of Our Fathers (279)
+Glorious Things of Thee Are Spoken (278)
+Good Christian Men, Rejoice! (151)
+Great Is Thy Faithfulness (43)
+Guide Me, O Thou Great Jehovah (51)
+Hallelujah, What A Savior (175)
+Hark! The Herald Angels Sing (133)
+Holy God, We Praise Thy Name (12)
+Holy, Holy, Holy (262)
+How Firm a Foundation (275)
+How Great Thou Art (4)
+I Know Whom I Have Believed (409)
+I Love to Tell the Story (297)
+I Must Tell Jesus (430)
+I Sing the Mighty Power of God (59)
+I Will Sing of My Redeemer (506)
+I’ll Go Where You Want Me to Go (444)
+Immortal, Invisible, God Only Wise (25)
+It Is Well (493) => It Is Well With My Soul
+Jesus I Am Resting, Resting (503)
+Joy to the World (125)
+Joyful, Joyful, We Adore Thee (1)
+Like a Glorious River (494)
+Lo! He Comes with Clouds Descending (241)
+Love Divine, All Loves Excelling (92)
+May the Mind of Christ, My Savior (390)
+My Hope is Built on Nothing Less (404) => My Hope Is Build on Nothing Less
+O Come, All Ye Faithful (145)
+O Come, O Come, Emmanuel (123)
+O God, Our Help in Ages Past (52) => Our God, Our Help In Ages Past (Psalm 90)
+O King (Psalm 45)
+O Sacred Head, Now Wounded (178)
+O Worship the King (10)
+Oh for a Thousand Tongues (76)
+Oh the Deep, Deep Love of Jesus (211)
+Oh to Be Like Thee (387)
+Praise Him! praise Him! Christ is Victor!
+Praise to the Lord, the Almighty (8)
+Rejoice, The Lord is King (228)
+Rock of Ages (204)
+Savior, Like a Shepherd Lead Us (462)
+Sine I Have Been Redeemed (339)
+Sing Praise to God Who Reigns Above (6)
+Stand Up and Bless the Lord (21)
+Stricken, Smitten, and Afflicted
+Take My Life and Let It Be (379)
+Take Time to Be Holy (441)
+The Battle is the Lord's (472)
+The Church's One Foundation (277)
+The Love of God (67)
+There Is a Fountain (196) => There Is a Fountain Filled with Blood
+Thine Is the Glory, Risen Conquering Son (227)
+Tis So Sweet to Trust in Jesus (350)
+To God Be the Glory (66)
+Trust and Obey (349)
+Victory in Jesus (473)
+We Praise Thee, O God, Our Redeemer (16) => We Praise You, O God, Our Redeemer, Creator
+We’re Marching to Zion (555)
+What a Friend We Have in Jesus (435)
+What Child Is This? (137)
+When I Survey the Wondrous Cross (185)
+Wonderful Words of Life (270)
+
+# Second list, added 2026-11-09 (duplicates of hymns above are skipped)
+A Mighty Fortress Is Our God
+Abide With Me
+Alas! And Did My Savior Bleed
+All Creatures of Our God and King
+All Hail the Power of Jesus' Name
+All People That on Earth Do Dwell
+All the Way My Savior Leads Me
+And Can It Be
+Angels from the Realms of Glory
+Angels We Have Heard on High
+Be Still, My Soul
+Be Thou My Vision
+Blessed Assurance
+Christ the Lord is Risen Today
+Come Thou Long Expected Jesus
+Come We That Love the Lord
+Come, Thou Almighty King
+Come, Thou Fount of Every Blessing
+Crown Him with Many Crowns
+Doxology => Praise God From Whom All Blessings Flow (Doxology)
+Fairest Lord Jesus
+For All the Saints
+Gloria Patri
+Glorious Things of Thee are Spoken
+God Moves in A Mysterious Way
+God Rest Ye, Merry Gentlemen
+Good Christian Men, Rejoice
+Grace Greater Than Our Sin
+Great is Thy Faithfulness
+Guide Me, O Thou Great Jehovah
+Have Thine Own Way, Lord
+Holy God, We Praise Thy Name
+Holy, Holy, Holy
+How Firm a Foundation
+How Great Thou Art
+I Am Thine, O Lord
+I Greet Thee, Who My Sure Redeemer Art
+I Know Whom I Have Believed
+I Need Thee Every Hour
+I Sing the Almighty Power of God => I Sing the Mighty Power of God
+I Surrender All
+I Will Sing of My Redeemer
+Immortal Invisible God Only Wise
+It Is Well With My Soul
+Jerusalem the Golden
+Jesus Paid It All
+Joy to the World
+Joyful, Joyful, We Adore Thee
+Let All Mortal Flesh Keep Silence
+Lo, How a Rose Ere Blooming => Lo, How A Rose E'er Blooming
+Lo! He Comes with Clouds Descending
+Love Divine, All Loves Excelling
+Man of Sorrows What a Name => Hallelujah, What a Savior!
+My Hope Is Build on Nothing Less
+My Savior's Love
+O Come, All Ye Faithful
+O Come, O Come Emmanuel
+O for a Thousand Tongues to Sing => O For A Thousand Tongues
+O God beyond All Praising
+O God, Our Help in Ages Past => Our God, Our Help In Ages Past (Psalm 90)
+O Sacred Head Now Wounded
+O Spendor of God's Glory Bright
+O Worship the King
+Of the Father's Love Begotten
+Praise Him! Praise Him!
+Praise to the Lord, the Almighty
+Rejoice, the Lord Is King
+Sing Praise to God Who Reigns Above
+Songs of Praise the Angels Sang
+Stricken, Smitten, and Afflicted
+Take My Life and Let It Be
+The Church's One Foundation
+The Love of God
+There Is a Fountain Filled with Blood
+This Is My Father's World
+Tis So Sweet to Trust in Jesus
+To God Be the Glory
+Trust and Obey
+We Are Called to Be God's People
+We Praise You, O God, Our Redeemer, Creator
+What Child Is This
+When I Survey the Wondrous Cross

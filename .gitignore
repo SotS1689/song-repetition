@@ -1,0 +1,5 @@
+.env
+scripts/.cache/
+node_modules/
+.claude/
+tests/excel-sheets.json

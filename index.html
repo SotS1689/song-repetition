@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YW31K785WW"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-YW31K785WW');
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>Song Repetition Visualizer</title>
+    <meta name="description" content="Paste a worship song and see how repetitive it is, line by line, compared with the Psalms and classic hymns.">
+    <meta property="og:title" content="Song Repetition Visualizer">
+    <meta property="og:description" content="Paste a worship song and see how repetitive it is, line by line, compared with the Psalms and classic hymns.">
+    <meta property="og:image" content="https://taylordrummond.org/song-repetition/og-image.png">
+    <meta property="og:url" content="https://taylordrummond.org/song-repetition/">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="theme-color" content="#2b3a55">
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="icon" href="icons/icon-192.png" type="image/png">
+    <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+    <link rel="stylesheet" href="style.css">
+    <script>
+        if (navigator.standalone) document.documentElement.classList.add("installed");
+        try { const t = localStorage.getItem("srv_theme"); if (t) document.documentElement.dataset.theme = JSON.parse(t); } catch {}
+    </script>
+</head>
+<body>
+<header class="top">
+    <div class="top-title">
+        <a class="icon-btn" id="home" href="https://taylordrummond.org/" aria-label="Home: taylordrummond.org" title="taylordrummond.org">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11l9-8 9 8M5 9.5V21h5v-6h4v6h5V9.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+        <h1>Song Repetition Visualizer</h1>
+    </div>
+    <div class="top-actions">
+        <button class="icon-btn" id="install" hidden aria-label="Install app" title="Install app">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v11m0 0l-4-4m4 4l4-4M5 19h14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <button class="icon-btn" id="theme" aria-label="Switch light or dark theme" title="Light / dark">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+        </button>
+        <div class="support-wrap">
+            <a class="icon-btn" id="support" href="https://buymeacoffee.com/taylordrummond"
+               target="_blank" rel="noopener" aria-label="Support" title="Support">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>
+            </a>
+            <div id="support-callout" role="dialog" aria-label="Support this project">
+                <div class="support-callout-arrow"></div>
+                <p class="support-callout-title">A quick note &mdash;</p>
+                <p class="support-callout-body">This project is built and maintained in spare time so that anyone can use it for free. If it's been a help to you, would you consider supporting it? Every bit keeps it running for the next person too.</p>
+                <div class="support-callout-actions">
+                    <a href="https://buymeacoffee.com/taylordrummond" target="_blank" rel="noopener"
+                       class="support-callout-btn support-callout-btn-primary" data-support="acted">Yes</a>
+                    <button type="button" class="support-callout-btn support-callout-btn-secondary" data-support="later">Maybe later</button>
+                    <button type="button" class="support-callout-btn support-callout-btn-text" data-support="forever">Don't ask again</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<main>
+    <div class="workspace" id="workspace">
+    <section class="input">
+        <label for="lyrics">Paste a song's lyrics, one sung line per line</label>
+        <textarea id="lyrics" rows="12" spellcheck="false" placeholder="Paste lyrics here.&#10;&#10;Directions such as “Chorus”, “Repeat chorus”, “(x2)” or “Repeat last line” are sung out in the count."></textarea>
+        <div class="input-actions">
+            <button id="analyze" class="btn-primary">Show repetition</button>
+            <button id="clear" class="btn-secondary">Clear</button>
+        </div>
+    </section>
+
+    <aside class="stats-col" id="stats" hidden>
+        <div class="stats">
+            <div class="stat stat-main"><span class="stat-num" id="s-score"></span><span class="stat-label">Repetition score</span></div>
+            <div class="stat"><span class="stat-num" id="s-unique"></span><span class="stat-label">Unique lines</span></div>
+            <div class="stat"><span class="stat-num" id="s-total"></span><span class="stat-label">Lines sung</span></div>
+        </div>
+
+        <h2>Compared with</h2>
+        <div id="compare" class="compare" role="img"></div>
+        <p class="hint" id="compare-note"></p>
+    </aside>
+
+    <section id="results" class="lyrics-col" hidden>
+        <h2>Line by line</h2>
+        <div class="legend" id="legend" aria-label="Color key: times each line is sung"></div>
+        <ol class="song" id="song"></ol>
+        <details id="notes-wrap" hidden>
+            <summary>Directions followed</summary>
+            <ul id="notes"></ul>
+        </details>
+    </section>
+    </div>
+
+    <details class="about">
+        <summary>How the score works</summary>
+        <p>The score measures how much a song leans on singing the same lines again and again. It is worked out in three steps:</p>
+        <ol>
+            <li><strong>Count each unique line.</strong> For every line that appears in the song, count how many times it is sung, including repeats called for by directions like “Chorus” or “(x2)”.</li>
+            <li><strong>Square each count.</strong> A line sung once gives 1; twice gives 4; five times gives 25. Squaring makes heavy repetition weigh far more than light repetition.</li>
+            <li><strong>Average the squares.</strong> Add the squared counts and divide by the number of unique lines.</li>
+        </ol>
+        <p class="formula">score = (sum of each unique line's count²) ÷ (number of unique lines)</p>
+        <p><strong>Examples.</strong></p>
+        <ul>
+            <li>No line is ever repeated: every count is 1, so the score is <strong>1</strong>, the lowest possible.</li>
+            <li>Four unique lines, each sung twice: (4 + 4 + 4 + 4) ÷ 4 = <strong>4</strong>.</li>
+            <li>Ten unique lines, nine sung once and one sung ten times: (9 × 1 + 100) ÷ 10 = <strong>10.9</strong>. A single line hammered over and over pushes the score up sharply.</li>
+        </ul>
+        <p>Lines match when their words match. Punctuation, capital letters, extra spaces, curly or straight quotes, and verse numbers at the start of a line are ignored.</p>
+        <p>The psalm figures use the ESV text, one poetic line per line. The hymn figures use the hymn texts in <a href="/lets-sing/">Let's Sing</a>.</p>
+    </details>
+    <details class="about" id="privacy">
+        <summary>Privacy</summary>
+        <p><strong>Privacy.</strong> Song Repetition Visualizer uses Google Analytics to count visits and see which features get used, so the app can be improved. You don't need an account, and nothing you type into the app is collected. Your data will never be sold or given away.</p>
+    </details>
+</main>
+<footer><a href="/">taylordrummond.org</a> · Scripture quotations are from the ESV® Bible, © 2001 by Crossway.</footer>
+
+<script src="analyzer.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
